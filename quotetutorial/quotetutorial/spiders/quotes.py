@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 
+from quotetutorial.items import QuoteItem
 
 
 class QuotesSpider(scrapy.Spider):
@@ -22,7 +23,6 @@ class QuotesSpider(scrapy.Spider):
 
         next=response.css(".pager .next a::attr(href)").extract_first()
         url=response.urljoin(next)
-        print(url)
         yield scrapy.Request(url=url, callback=self.parse)
 
 
