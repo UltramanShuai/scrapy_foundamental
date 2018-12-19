@@ -1,0 +1,32 @@
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'ARCHITECTURE', 'url': '/study-with-us/architecture'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'ARCHITECTURE', 'url': '/study-with-us/architecture', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'ART', 'url': '/study-with-us/art'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'ART', 'url': '/study-with-us/art', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'BIOMEDICAL SCIENCES', 'url': '/study-with-us/biomedical-sciences'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'BIOMEDICAL SCIENCES', 'url': '/study-with-us/biomedical-sciences', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'BUILDING', 'url': '/study-with-us/building'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'BUILDING', 'url': '/study-with-us/building', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'BUSINESS', 'url': '/study-with-us/business'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'BUSINESS', 'url': '/study-with-us/business', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'COMMUNICATION', 'url': '/study-with-us/communication'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'COMMUNICATION', 'url': '/study-with-us/communication', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'COMMUNITY SERVICES', 'url': '/study-with-us/community-services'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'COMMUNITY SERVICES', 'url': '/study-with-us/community-services', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'DESIGN', 'url': '/study-with-us/design'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'DESIGN', 'url': '/study-with-us/design', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'EDUCATION', 'url': '/study-with-us/education'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'EDUCATION', 'url': '/study-with-us/education', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'ENGINEERING', 'url': '/study-with-us/engineering'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'ENGINEERING', 'url': '/study-with-us/engineering', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'FASHION', 'url': '/study-with-us/fashion'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'FASHION', 'url': '/study-with-us/fashion', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'GAME DESIGN', 'url': '/study-with-us/game-design'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'GAME DESIGN', 'url': '/study-with-us/game-design', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'HEALTH SCIENCE', 'url': '/study-with-us/health-science'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'HEALTH SCIENCE', 'url': '/study-with-us/health-science', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'INFORMATION TECHNOLOGY', 'url': '/study-with-us/information-technology'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'INFORMATION TECHNOLOGY', 'url': '/study-with-us/information-technology', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'LAW', 'url': '/study-with-us/law'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'LAW', 'url': '/study-with-us/law', 'hello': 'world'}
+2018-12-19 17:59:45 [myspider.spiders.rmit] WARNING: {'name': 'SCIENCE', 'url': '/study-with-us/science'}
+2018-12-19 17:59:45 [myspider.pipelines] WARNING: {'name': 'SCIENCE', 'url': '/study-with-us/science', 'hello': 'world'}

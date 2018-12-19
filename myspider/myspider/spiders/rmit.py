@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import logging
 
+logger =logging.getLogger(__name__)
 
 class RmitSpider(scrapy.Spider):
     name = 'rmit'
@@ -13,9 +15,10 @@ class RmitSpider(scrapy.Spider):
         li_list=response.xpath('//div[@class="col-md-12 pagelisting"]//li')
 
         for li in li_list:
+
             item={}
             item["name"]=li.xpath(".//a/text()").extract_first()
             item["url"]=li.xpath(".//a/@href").extract_first()
-
+            logger.warning(item)
             yield item
 
